@@ -1,13 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
 /* variables */
 :root {
-    --primary-color:#ef476f;
+    --primary-color:#007AF3;
 }
 /* variables */
 
 /* global rules */
 body {
-    background-color: #06d6a0;
+    background-color: #F2F2F2;
     margin: 0;
     font-family: 'Poppins', sans-serif;
 }
@@ -29,7 +29,7 @@ section {
 
 /* navbar start*/
 .navbar {
-    background-color: #ffd166;
+    background-color: white;
     padding: 1em;
 }
 .navbar .logo {
@@ -135,7 +135,7 @@ section {
     color: white;
 }
 .testimonials-section li {
-    background-color: #8f2d56;
+    background-color: #006bd6;
     text-align: center;
     padding: 2em 1em;
     width:80%;
@@ -145,7 +145,7 @@ section {
 .testimonials-section img {
     width:5em;
     height: 5em;
-    border: 5px solid #8f2d56;
+    border: 5px solid #006bd6;
     border-radius: 50%;
     margin-top: -4.5em;
 }
